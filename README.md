@@ -15,3 +15,6 @@ The model is based on the MobileViT architecture, Key components include:
 ## Dataset
 The ORIGA dataset is used for training and validation. It can be downloaded from Kaggle:
 https://www.kaggle.com/arnavjain1/glaucoma-datasets
+
+# Considerations
+The model achieves 96% validation accuracy during training, However, this high accuracy may indicate overfitting to the validation data so consideration is needed
